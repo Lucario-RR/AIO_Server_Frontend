@@ -9,6 +9,7 @@ Anything about the server project will be included in this repo, including front
 
 ### Cooking
 
+
 ## Ledger
 ### Download Transactions
 1. Upload bills from bank or WCP ALP
@@ -18,6 +19,9 @@ Anything about the server project will be included in this repo, including front
 ### Download Transactions
 
 ### Auto Bill Processor
+1. Support bills from WeChat Pay, Ali Pay,
+2. Automatically converted to DB record when user uploaded
+3. Handling error when incorrect file sumbitted
 
 ## Bank Currency Comparing
 1. Fetch currency from different bank
@@ -29,6 +33,19 @@ Anything about the server project will be included in this repo, including front
 2. Cookies expiring time
 3. 2FA setup
 4. Passkey logon
+
+## Bike Management System
+### Bike Maintenance Log
+1. Store records on each maintenance
+2. Add, edit, remove records
+
+### Bike Trip Log
+1. Store the basic distence time info and GPS positions (if any) for each trip (automatic upload or manual import)
+2. Add, edit, remove records
+3. Export statiscical data
+
+## Gallery
+Show anime pictures.
 
 
 # User Interface
@@ -46,9 +63,15 @@ Not in the current plan yet.
 
 
 # Server Security
+## File Virus Check
+
+
+## DB (SQL) Injection Prevention
 
 
 # Error Handling, Log and Status Code
 
 
 # Version History
+## 0.0.1 
+1. Project created, making detailed requirements.
