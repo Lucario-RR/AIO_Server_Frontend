@@ -1,5 +1,8 @@
 # Repo Intro
-Anything about the server project will be included in this repo, including front and back end website, apis, databases, etc. 
+This repo provide details on what this server does, how to use, how to handling errors (from user perspective). This server is frontend and backend separated, to find more details please find following repo.
+Frontend: (Not available yet)
+Backend: (Not available yet)
+
 
 # What it does
 ## Blogs?
@@ -75,3 +78,4 @@ Not in the current plan yet.
 # Version History
 ## 0.0.1 
 1. Project created, making detailed requirements.
+
