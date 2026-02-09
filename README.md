@@ -1,6 +1,8 @@
 # Repo Intro
 This repo provide details on what this server does, how to use, how to handling errors (from user perspective). This server is frontend and backend separated, to find more details please find following repo.
+
 Frontend: (Not available yet)
+
 Backend: (Not available yet)
 
 
@@ -78,4 +80,5 @@ Not in the current plan yet.
 # Version History
 ## 0.0.1 
 1. Project created, making detailed requirements.
+
 
