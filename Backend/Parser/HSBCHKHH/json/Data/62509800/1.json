@@ -1,0 +1,122 @@
+{
+    "pagination": {
+        "numberOfRecords": 3,
+        "moreRecord": "N"
+    },
+    "transactions": [
+        {
+            "transactionDate": "2026-03-03",
+            "transactionPostingDate": "2026-03-03",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 296.12,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "6250980002118377",
+            "cardNumberDisplay": "6250980002118377",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKmWCp2mOTNaocgRNBuvFBCh3Aj31h4qdED6I6yYJdns=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "223924",
+                "merchantLocation": "HONG KONG",
+                "merchantCountryCode": "HK"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGTk95V05fSTdFM3hPNWdsVWtwWDlGclA3dmlYWm14UHdqTGVwTEJiUVpUdmJURV9qbDEzSWtwb1JRVlNCT2pzcjRVcUJlWmJ0bnNoYXJRWjdaZ0ZJdWF5aEtod3R4MHd4N1dKQk1uV0VqQmtnWTRPQUlmV2pBdWpSVzhNa2I4TXZrWF9TNW1obTN1VWZRV0pVTERfZVZ5cmlyM1FoWXRoQkhPam05N0RMaEVacGlqZjY4WTYzOTJGYmVmT2ozelFlR2VvMzFLVTN2V2UwcV9taW5fVHNRWl9taW5fNWxiWVJRMmY2QTlmeW1INWxDMWJXX21pbl9yRU5CZ2xNRzk5bjdvM2xfbWluX2lYZDlneGdENmpxOFhBdjJ6bzhtOTJSUGNuN2hTcVBmTG1XZkhZVmhNaXpBSTZieDQ0RWI1UFhvYmVsVDhzNUJfbWluX1pmV285RE9LX2ZkQzlnbURQbjNtQk1sdzlXR1BiNWVaSFJ4NUxUSXVjZmthT3Nnc0dkWF9taW5fUXFMYWxiZnk1TkRrdjloM010c0JYR01OWXpQQ1M4dVQwTjhrbWt1NENDUUFURmtNNmhIU1d5Y2doa1czek8xX21pbl8xYWpjWGIxNjNVc19FVmNZdV82c2JESWU0a2Y2bUdUQjRIZmZKcjEyOWNPYVU9",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-05",
+            "transactionPostingDate": "2026-02-06",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 403.40,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "QR       DIN TAI FUNG              MAC          MO"
+            ],
+            "cardNumber": "6250980000929213",
+            "cardNumberDisplay": "6250980000929213",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKmWCp2mOTNaocAxOB_min_rDAAh01_h_min_Hgkm053VTxWlgGs=",
+            "cardholderName": "WANG ZIFAN",
+            "exchangeRate": 0.97088,
+            "merchantCategoryCode": "5812",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "165435",
+                "merchantName": "DIN TAI FUNG",
+                "merchantCity": "MAC",
+                "merchantLocation": "MACAU",
+                "authorizationType": "DOMESTIC",
+                "merchantCountryCode": "MO"
+            },
+            "authorizationCode": "755187",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGTk95V05fSTdFM3hPNWdsVWtwWDlGclA3dmlYWm14UHdqTGVwTEJiUVpUdmJURV9qbDEzSWtwb1JRVlNCT2pzcjRVcUJlWmJ0bnNoYXJRWjdaZ0ZJdWF5aEtod3R4MHd4N1dKQk1uV0VqQmtnWTRPQUlmV2pBdWpSVzhNa2I4TXZrWF9TNW1obTN1VWZRV0pVTERfZVZ5cmlyM1FoWXRoQkhPam05N0RMaEVacGlqZjY4WTYzOTJGYmVmT2ozelFlR2VvMzFLVTN2V2UwcV9taW5fVHNRWl9taW5fNWxiWVJRMmY2QTlmeW1INWxDMWJXX21pbl9yRU5CZ2xNRzk5bjdvM2xfbWluX2lYZDlneGdENmpxOFhBdjJ6bzhtOTJSUGN2emhpdU9lcjJXZkhZVmhNaXpBSTZieDQ0RWI1UFhvYmVsVDhzNUJfbWluX1pmV285RE9LX2ZkQzlnbURQbjNDeFVqMnRBQl9taW5feXJQODJBMHByR0lKRUxtYm5Ea3BMQVRfbWluXzg3UGJWTEttME1VRnJsaVJrQ2xtU19taW5fVWQwMFBTYTZyQ0VhdVE3NTk4SElRQTdXOU5xNkhXcmdlQmcxQkNfNnRwNHhuOW5KbHVYVTdiQUZlNXZIaXJuUmFqU3YzbFZNbk5JQXV3SUYydEVnTU8xNVVTaU9IcjdlMjhvNXpzdTE5VVRHd0c3V2lwNXQ3Q2dvZEVGOUs2ZElIMFpNVmJLcFZUTWkxX0tkTVZ6WmZBU1Q2bjhzdkhfdG5RPT0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "foreignCurrencyTransactionAmount": {
+                "amount": 415.50,
+                "currencyCode": "MOP"
+            },
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-01-24",
+            "transactionPostingDate": "2026-01-26",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 296.12,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "SALES:   IH                        MAC          MO"
+            ],
+            "cardNumber": "6250980000929213",
+            "cardNumberDisplay": "6250980000929213",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKmWCp2mOTNaocAxOB_min_rDAAh01_h_min_Hgkm053VTxWlgGs=",
+            "cardholderName": "WANG ZIFAN",
+            "exchangeRate": 0.97089,
+            "merchantCategoryCode": "5812",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "133418",
+                "merchantName": "IH",
+                "merchantCity": "MAC",
+                "merchantLocation": "MACAU",
+                "authorizationType": "DOMESTIC",
+                "merchantCountryCode": "MO"
+            },
+            "authorizationCode": "195542",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGTk95V05fSTdFM3hPNWdsVWtwWDlGclA3dmlYWm14UHdqTGVwTEJiUVpUdmJURV9qbDEzSWtwb1JRVlNCT2pzcjRVcUJlWmJ0bnNoYXJRWjdaZ0ZJdWF5aEtod3R4MHd4N1dKQk1uV0VqQmtnWTRPQUlmV2pBdWpSVzhNa2I4TXZrWF9TNW1obTN1VWZRV0pVTERfZVZ5cmlyM1FoWXRoQkhPam05N0RMaEVacGlqZjY4WTYzOTJGYmVmT2ozelFlR2VvMzFLVTN2V2UwcV9taW5fVHNRWl9taW5fNWxiWVJRMmY2QTlmeW1INWxDMWJXX21pbl9yRU5CZ2xNRzk5bjdvM2xfbWluX2lYZDlneGdENmpxOFhBdjJ6bzhtOTJSUGN2emhpdU9lcjJXZkhZVmhNaXpBSTZieDQ0RWI1UFhvYmVsVDhzNUJfbWluX1pmV285RE9LX2ZkQzlnbURQbjNDeFVqMnRBQl9taW5feXJQODJBMHByR0lKRUxtYm5Ea3BMQVRfbWluXzg3UGJWTEttME1VRnJsaVJrQ2xtU19taW5fVWQwMFBTYTZyQ0VhdVE3NTk4SElRQTdXOU5xNkhXcmdlQmcxQkNfNnRwMDNuOW5KbHVYVTdiQUZlNXZIaXJyVGFqU3YzbFZNbk5JQXZnd08yZGdnTU8xNVVTaU9IcjdlMjhvNXpzdTE5VVRHd0c3V2lwNXQ3Q2dvZEVGOUs2ZElIMFpNVmJLcFZUTWlXNTA0ZGZ1Nmh6VFpVb0JkZnhpaTZRPT0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "foreignCurrencyTransactionAmount": {
+                "amount": 305.00,
+                "currencyCode": "MOP"
+            },
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        }
+    ]
+}

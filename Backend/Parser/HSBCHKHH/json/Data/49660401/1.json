@@ -1,0 +1,298 @@
+{
+    "pagination": {
+        "numberOfRecords": 9,
+        "moreRecord": "N"
+    },
+    "transactions": [
+        {
+            "transactionDate": "2026-03-05",
+            "transactionPostingDate": "2026-03-07",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 3000.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "SALES:   PAYME FROM HSBC           Hong Kong    HK"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "6540",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "192704",
+                "merchantName": "PAYME FROM HSBC",
+                "merchantCity": "Hong Kong",
+                "merchantLocation": "HONG KONG",
+                "merchantCountryCode": "HK"
+            },
+            "authorizationCode": "484465",
+            "acquirerReferenceNumber": "1001685580260",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NnXzFDZ3htdHVYUGNfNmhTQ1BjN21CWUdWRHhjYXJRYVh5dVk1Z0JyU0JyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2RDZ1bmJVZnhyZTd0VGF5eE9ERTd2bUdGX21pbl9fQnZlZG9FaE1EZThxaUVic0E3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIRERFVEEza3pyX21pbl9mVkx5dHpUTWhQYjNoRnF4bEJs",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-24",
+            "transactionPostingDate": "2026-02-26",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 1.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY CHINA MOBILE HK C24100    HONG KONG    HK"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "4812",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "191157",
+                "merchantName": "CHINA MOBILE HK C24100",
+                "merchantCity": "HONG KONG",
+                "merchantLocation": "HONG KONG",
+                "authorizationType": "DOMESTIC",
+                "merchantCountryCode": "HK"
+            },
+            "authorizationCode": "357404",
+            "acquirerReferenceNumber": "74552356056241002770705",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NnXzFDZ3htdHVYUGNfNmhTQ1BjN21CWUdWRHhjYXJRYVh5dVk1Z0JyU0JyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJWSzlTWGh0aVlISVp3Z3R2RDdfTGJVZnhyZTd0VGF5eE9ERTd2bVdOX19CdmVkb0VoTURlN3FpQVh1QTc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhEREVUQTNrejl3RlJMYzFpSVljdWFPeTNwZ1VOXw==",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-17",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 1.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "SALES:   Add Card - PayMe          852          HK"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "6540",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "105705",
+                "merchantName": "Add Card - PayMe",
+                "merchantCity": "852",
+                "merchantLocation": "HK",
+                "merchantCountryCode": "HK"
+            },
+            "authorizationCode": "164578",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NVXzFDaE42S21ESWRtcHdEQ0dhYzMzY25oVWs0X2dBUHkyNHNCYktOeUI0UDJsTnFwVUNibFdwNXRvdHlGNkZmVW5lTnA2SW1FQg==",
+            "transactionEnrichmentIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "PENDING"
+        },
+        {
+            "transactionDate": "2026-02-17",
+            "transactionPostingDate": "2026-02-20",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 3000.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "SALES:   PAYME FROM HSBC           Hong Kong    HK"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "6540",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "105731",
+                "merchantName": "PAYME FROM HSBC",
+                "merchantCity": "Hong Kong",
+                "merchantLocation": "HONG KONG",
+                "merchantCountryCode": "HK"
+            },
+            "authorizationCode": "165029",
+            "acquirerReferenceNumber": "1001666428802",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NnXzFDZ3htdHVYUGNfNmhTQ1BjN21CWUdWRHhjYXJRYVh5dVk1Z0JyU0JyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2RDdmUGJVZnhyZTd0VGF5eE9ERTd2bVdONV9CdmVkb0VoTURlX29pWWR0Zzc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhEREVUQTNreHhad2pCajJkSzZ1RzNGdEhNQ3EyTQ==",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-16",
+            "transactionPostingDate": "2026-02-16",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 9900.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "000000",
+                "merchantLocation": "HONG KONG",
+                "merchantCountryCode": "HK"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NnXzFDZ3htdHVYUGNfNmhTQ1BjN21CWUdWRHhjYXJRYVh5dVk1Z0JyU0JyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2RDlaUGJVZnhyZTd0VGF5eE9ERTd2bVdCX19CdmVkb0VoTURlMXF5QVpzUTc1OTlIZEUxcldtdHFtRHppcElsNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNreG1oX0hIeUtMX21pbl9ZNXU3NlBvbGc4V28=",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-01-16",
+            "transactionPostingDate": "2026-01-16",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 65600.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "000000"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NnXzFDZ3htdHVYUGNfNmhTQ1BjN21CWUdWRHhjYXJRYVh5dVk1Z0JyU0JyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2UzlKdmJVZnhyZTd0VGF5eE9ERTd2bW1CX19CdmVkb0VoTURlMXJDVWN0Zzc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNreWFtWWl6ajRkc2xKdXJmVkFYX21pbl9jcl8=",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-01-16",
+            "transactionPostingDate": "2026-01-16",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 10.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "000000",
+                "merchantLocation": "HONG KONG",
+                "merchantCountryCode": "HK"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NnXzFDZ3htdHVYUGNfNmhTQ1BjN21CWUdWRHhjYXJRYVh5dVk1Z0JyU0JyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2RDlaUGJVZnhyZTd0VGF5eE9ERTd2bW1CX19CdmVkb0VoTURlMXF5VWJzUTc1OTlIZEUxcldtdHFtRHpDZ0tGNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNreXI4MnpteG00QVRmdk5fbWluX2xtSV9taW5fdnZD",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-01-16",
+            "transactionPostingDate": "2026-01-16",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 72500.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "SALES:   HKPU                      KOWLOON      HK"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "4900",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "105136",
+                "merchantName": "HKPU",
+                "merchantCity": "KOWLOON",
+                "merchantLocation": "HONG KONG",
+                "merchantCountryCode": "HK"
+            },
+            "authorizationCode": "310726",
+            "acquirerReferenceNumber": "26652001171",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NnXzFDZ3htdHVYUGNfNmhTQ1BjN21CWUdWRHhjYXJRYVh5dVk1Z0JyU0JyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2RDd2TGJVZnhyZTd0VGF5eE9ERTd2bW1CX19CdmVkb0VoTURlNnJ5Y1hzUTc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhEREVUQTNreVgwcTJOcDNqYTVMd25MSF9pcWQ4cQ==",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-01-15",
+            "transactionPostingDate": "2026-01-17",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 3000.00,
+                "currencyCode": "HKD"
+            },
+            "transactionDescriptions": [
+                "SALES:   PAYME FROM HSBC           Hong Kong    HK"
+            ],
+            "cardNumber": "4966040123875015",
+            "cardNumberDisplay": "4966040123875015",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHKG6BoWCCTNeqcw1LC_min_jDBielJu8i4blZajUYC_5reDk=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "6540",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "231819",
+                "merchantName": "PAYME FROM HSBC",
+                "merchantCity": "Hong Kong",
+                "merchantLocation": "HONG KONG",
+                "merchantCountryCode": "HK"
+            },
+            "authorizationCode": "961801",
+            "acquirerReferenceNumber": "1001629617327",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFGSG8yWEtKY1ZIM3hPNGhkVWd2Yl9GNW5na1FuQWdBZjFpSl9taW5fS0hEaktGUW5rV0RuOHZtX21pbl9RcHBvX21pbl9HbHlmSDI0MzJSeWNkNV9taW5fRTFfMWpyUXRTWUJabm82X05OUndNbzIwSjlBSjhJR2IzdGhZbFJaNl9taW5fQzlpR0V0blVZdWdNUjVvbnNVeVFpVlZlM1lnSFpHWlRaZ3Y1WVdYVGwxTTdUTUpSSnRqNjk0M3RtMDlQaXhQVTRLdldyUkUwWTg2MV9taW5fR3hoVGRKU2d0bDNua1gxdV9taW5fX2llNjZtdkwxNWIxYk9aUGF6djNSTUxtZWw0dWNTTkNzdU50ZHRfTnF5bFRUUDZoMW5RNmJ5c0NnXzFDZ3htdHVYUGNfNmhTQ1BjN21CWUdWRHhjYXJRYVh5dVk1Z0JyU0JyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2RDdfbWluX19iVWZ4cmU3dFRheXhPREU3dm1tQl9taW5fX0J2ZWRvRWhNRGU4cXljZnRBNzU5OUhkRTFyV210cW1Eem1nSVY0N0hHN1VocklKMDlmUjE3SEc1N0FiYWMyU21MSERERVRBM2t3M2U4Y0VmS3lSQjhPSTZ2VlVVeENW",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        }
+    ]
+}
