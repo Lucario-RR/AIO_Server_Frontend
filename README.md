@@ -29,8 +29,8 @@ Backend: (Not available yet)
 3. Handling error when incorrect file sumbitted
 
 ### Parser
-HSBCHKHH
-Example 1: 16 items  
+HSBCHKHH  
+Example 1: Pending CNY, 16 items  
 ``` json
 {
             "transactionDate": "2026-03-07",
@@ -63,7 +63,7 @@ Example 1: 16 items
         },
   ```
 
-Example 2: 21 items
+Example 2: Post Unionpay QR CNY, 21 items
 ``` json
 {
             "transactionDate": "2026-03-06",
@@ -104,7 +104,7 @@ Example 2: 21 items
         },
 ```
 
-Example 3: 16 items  
+Example 3: Card repay, 16 items  
 ``` json
 {
             "transactionDate": "2026-03-05",
@@ -136,7 +136,7 @@ Example 3: 16 items
         },
 ```
 
-Example 4: 23 items
+Example 4: Apple Pay MOP, 23 items
 ``` json
 {
             "transactionDate": "2026-01-24",
@@ -182,7 +182,7 @@ Example 4: 23 items
         }
 ```
 
-Example 5 Pay bills/Taxes: 21 lines 
+Example 5: Pay bills/Taxes, 21 lines 
 ``` json
 {
             "transactionDate": "2026-01-16",
@@ -272,6 +272,7 @@ Not in the current plan yet.
 # Version History
 ## 0.0.1 
 1. Project created, making detailed requirements.
+
 
 
 
