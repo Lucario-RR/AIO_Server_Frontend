@@ -30,6 +30,69 @@ Backend: (Not available yet)
 
 ### Parser
 HSBCHKHH  
+
+#### JSON Common fields
+##### Top level json fields
+| Field                                     | 1 | 2 | 3 | 4 | 5 |
+| ----------------------------------------- | - | - | - | - | - |
+| transactionDate                           | ✓ | ✓ | ✓ | ✓ | ✓ |
+| transactionPostingDate                    | – | ✓ | ✓ | ✓ | ✓ |
+| transactionType                           | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `transactionAmount`                         | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `transactionDescriptions`                   | ✓ | ✓ | ✓ | ✓ | ✓ |
+| cardNumber                                | ✓ | ✓ | ✓ | ✓ | ✓ |
+| cardNumberDisplay                         | ✓ | ✓ | ✓ | ✓ | ✓ |
+| cardNumberIdentifier                      | ✓ | ✓ | ✓ | ✓ | ✓ |
+| cardholderName                            | ✓ | ✓ | ✓ | ✓ | ✓ |
+| merchantCategoryCode                      | ✓ | ✓ | ✓ | ✓ | ✓ |
+| transactionCreditDebitCode                | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `realTimeTransactionDetails`                | ✓ | ✓ | ✓ | ✓ | ✓ |
+| authorizationCode                         | ✓ | ✓ | – | ✓ | ✓ |
+| acquirerReferenceNumber                   | – | ✓ | – | ✓ | ✓ |
+| exchangeRate                              | – | – | – | ✓ | – |
+| uniqueTransactionIdentifier               | ✓ | ✓ | ✓ | ✓ | ✓ |
+| transactionEnrichmentIndicator            | ✓ | ✓ | ✓ | ✓ | ✓ |
+| transactionDisputeIndicator               | – | ✓ | ✓ | ✓ | ✓ |
+| secondaryCardTransactionIndicator         | ✓ | ✓ | ✓ | ✓ | ✓ |
+| transactionStatus                         | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `transactionEnrichmentTypes`                | – | ✓ | ✓ | ✓ | ✓ |
+| `foreignCurrencyTransactionAmount`          | – | – | – | ✓ | – |
+| foreignCurrencyTransactionCreditDebitCode | – | ✓ | ✓ | ✓ | ✓ |
+
+##### transactionAmount
+| Field                          | 1 | 2 | 3 | 4 | 5 |
+| ------------------------------ | - | - | - | - | - |
+| transactionAmount.amount       | ✓ | ✓ | ✓ | ✓ | ✓ |
+| transactionAmount.currencyCode | ✓ | ✓ | ✓ | ✓ | ✓ |
+
+##### realTimeTransactionDetails
+| Field               | 1 | 2 | 3 | 4 | 5 |
+| ------------------- | - | - | - | - | - |
+| transactionTime     | ✓ | ✓ | ✓ | ✓ | ✓ |
+| merchantName        | ✓ | ✓ | – | ✓ | ✓ |
+| merchantCity        | ✓ | ✓ | – | ✓ | ✓ |
+| merchantLocation    | ✓ | ✓ | – | ✓ | ✓ |
+| merchantCountryCode | ✓ | ✓ | – | ✓ | ✓ |
+| authorizationType   | – | ✓ | – | ✓ | – |
+
+##### foreignCurrencyTransactionAmount
+| Field                                         | 1 | 2 | 3 | 4 | 5 |
+| --------------------------------------------- | - | - | - | - | - |
+| foreignCurrencyTransactionAmount.amount       | – | – | – | ✓ | – |
+| foreignCurrencyTransactionAmount.currencyCode | – | – | – | ✓ | – |
+
+##### transactionDescriptions
+| Field                     | 1 | 2 | 3 | 4 | 5 |
+| ------------------------- | - | - | - | - | - |
+| transactionDescriptions[] | ✓ | ✓ | ✓ | ✓ | ✓ |
+
+##### transactionEnrichmentTypes
+| Field                        | 1 | 2 | 3 | 4 | 5 |
+| ---------------------------- | - | - | - | - | - |
+| transactionEnrichmentTypes[] | – | ✓ | ✓ | ✓ | ✓ |
+
+#### JSON Examoles
+
 Example 1: Pending CNY, 16 items  
 ``` json
 {
@@ -272,6 +335,7 @@ Not in the current plan yet.
 # Version History
 ## 0.0.1 
 1. Project created, making detailed requirements.
+
 
 
 
