@@ -1,0 +1,1564 @@
+{
+    "pagination": {
+        "nextPageIndex": "HKHSBC277544888603999999998383830003050796   20260311ZCJS202603112542200000000                      HKHSBC277544888603202603068383830000319673   20260224ZRT7202602243144000000000",
+        "numberOfRecords": 45,
+        "moreRecord": "Y"
+    },
+    "transactions": [
+        {
+            "transactionDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 18.80,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   JINGDONG                  BEIJING      CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "132717",
+                "merchantName": "JINGDONG",
+                "merchantCity": "BEIJING",
+                "merchantLocation": "CN",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "511492",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ1VfMUNoRzdiU0RJZG1wd0RDR2FjMzNjbmhVazRfZ0FQeTI0c0JiS055QjRQMmxOcXBQQ2Jsb1JwU1FzVDBkM19taW5fanFKcF9taW5fTHB5SGM=",
+            "transactionEnrichmentIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "PENDING"
+        },
+        {
+            "transactionDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 5729.54,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   JD PLATFORM MERCHANT      BEIJING      CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "120135",
+                "merchantName": "JD PLATFORM MERCHANT",
+                "merchantCity": "BEIJING",
+                "merchantLocation": "CN",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "364597",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ1VfMUNoRzdiU0RJZG1wd0RDR2FjMzNjbmhVazRfZ0FQeTI0c0JiS055QjRQMmxOcXBVQ2JrZ1lLTUdMNzJ4NW16c0lzcGYyUjB3",
+            "transactionEnrichmentIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "PENDING"
+        },
+        {
+            "transactionDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 4882.37,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   JD PLATFORM MERCHANT      BEIJING      CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "113718",
+                "merchantName": "JD PLATFORM MERCHANT",
+                "merchantCity": "BEIJING",
+                "merchantLocation": "CN",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "334214",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ1VfMUNoRzdiU0RJZG1wd0RDR2FjMzNjbmhVazRfZ0FQeTI0c0JiS055QjRQMmxOcXBVQ2JrZ1lLTUdMNzJ4NW16c0lzcGYyUjB3",
+            "transactionEnrichmentIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "PENDING"
+        },
+        {
+            "transactionDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 10325.08,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   JINGDONG                  BEIJING      CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "101125",
+                "merchantName": "JINGDONG",
+                "merchantCity": "BEIJING",
+                "merchantLocation": "CN",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "243888",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ1VfMUNoRzdiU0RJZG1wd0RDR2FjMzNjbmhVazRfZ0FQeTI0c0JiS055QjRQMmxOcXBQQ2Jsb1JwU1FzVDBkM19taW5fanFKcF9taW5fTHB5SGM=",
+            "transactionEnrichmentIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "PENDING"
+        },
+        {
+            "transactionDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 5619.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   JINGDONG                  BEIJING      CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "100123",
+                "merchantName": "JINGDONG",
+                "merchantCity": "BEIJING",
+                "merchantLocation": "CN",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "233480",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ1VfMUNoRzdiU0RJZG1wd0RDR2FjMzNjbmhVazRfZ0FQeTI0c0JiS055QjRQMmxOcXBQQ2Jsb1JwU1FzVDBkM19taW5fanFKcF9taW5fTHB5SGM=",
+            "transactionEnrichmentIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "PENDING"
+        },
+        {
+            "transactionDate": "2026-03-12",
+            "transactionPostingDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 10500.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "114143"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2UzlKRGJVZnhyZTd0VGF5eE9ERTd2bUdCN19CdmVkb0VoTURlX3FDVWN1QTc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNreWNGaVpVZzM0d2JrZGV5NDNLcV9taW5fOU4=",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-12",
+            "transactionPostingDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 6000.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "114143"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2UzlKRGJVZnhyZTd0VGF5eE9ERTd2bUdCN19CdmVkb0VoTURlX3FTZ1lzZzc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNreTRCSHBXcm1yWkJxc00xMW1jejJmcA==",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-12",
+            "transactionPostingDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 10000.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "114143"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2UzlKRGJVZnhyZTd0VGF5eE9ERTd2bUdCN19CdmVkb0VoTURlX3FpTVd0QTc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNreUpJVjhhWkh6YmVNYTIxcVM3UjZpSw==",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-11",
+            "transactionPostingDate": "2026-03-12",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 39.89,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY MEITUAN                   CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5814",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "202625",
+                "merchantName": "MEITUAN",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "783523",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDdmTGJVZnhyZTd0VGF5eE9ERTd2bUdCN19CdmVkb0VoTURlX21pbl9yaWNmdHc3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIRERFVEEza3pBbEN2cHQ4RnNqMDh3YXJfUUlsRV9taW5f",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-10",
+            "transactionPostingDate": "2026-03-11",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 54.80,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   UNIONPAY MERCHANT         CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5399",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "000007",
+                "merchantName": "UNIONPAY MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "317970",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhaHBxUGE5ZkZUYVpQVGlMdlRhaWF3elFBQWtzcEc1QmdNeXRNM0tQMDRGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXNm1xTjhlNjUwRjE0Nm5PeFl0VWtGYz0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-10",
+            "transactionPostingDate": "2026-03-11",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 54.80,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "RETURN:  UNIONPAY MERCHANT         CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5399",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "000007",
+                "merchantName": "UNIONPAY MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "317970",
+            "acquirerReferenceNumber": "10003100000077365280310",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hVU3lQVjUwVG1URTFfbWluXzFhNTdhaHBxUGE5ZkZUYVpQVGlMdlRhaWF3elFBQWtzcEc1QmdNeXRNMktmbzhGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJNRmlXeXlHWF9NM0h2bGNEUThEQkRtMG9EWT0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-10",
+            "transactionPostingDate": "2026-03-11",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 1352.21,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   IHG HOTEL GROUP           CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "7011",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "005811",
+                "merchantName": "IHG HOTEL GROUP",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "437147",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDZ2RGJVZnhyZTd0VGF5eE9ERTd2bUdCNF9CdmVkb0VoTURlX21pbl9xeWNYdVE3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIRERFVEEza3h3TzY5U1NETHNZWF9taW5fYnZBeUpOM3Bv",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-09",
+            "transactionPostingDate": "2026-03-10",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 29.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   UNIONPAY MERCHANT         CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5399",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "170240",
+                "merchantName": "UNIONPAY MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "869702",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhbXVxUGE5ZkZUYVpQVGlMdlRhaWF3elFFQWtzcEc1QmdNeXRNMkx2ODlGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXNGt2TVE1ZVJ3eGxVMFk3TERtaTgxcz0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-09",
+            "transactionPostingDate": "2026-03-10",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 17.50,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY JINGDONG                  CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "102610",
+                "merchantName": "JINGDONG",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "317643",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDdlM2JVZnhyZTd0VGF5eE9ERTd2bUdCNV9CdmVkb0VoTURlX21pbl9yU0lldHc3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIRERFVEEza3p3dW11OUxzNldGSERUVlNzQVJkOXI=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-07",
+            "transactionPostingDate": "2026-03-09",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 240.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY WUHAN TIANHE AIRPORT HOLI CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "7011",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "125324",
+                "merchantName": "WUHAN TIANHE AIRPORT HOLI",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "590659",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDhQUGJVZnhyZTd0VGF5eE9ERTd2bUdGd19CdmVkb0VoTURlNXFDTVl0UTc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhEREVUQTNrekxockk4WW5aTFQxZzZMUUJQRkZIUA==",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-06",
+            "transactionPostingDate": "2026-03-07",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 54.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "QR       CHINA XUNXIAO CO.,LTD     CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5691",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "104240",
+                "merchantName": "CHINA XUNXIAO CO.,LTD",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "035972",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDZ1M2JVZnhyZTd0VGF5eE9ERTd2bUdGX21pbl9fQnZlZG9FaE1EZV9taW5fcUNNWnRRNzU5OUhkRTFyV210cW1Eem1nSVY0N0hHN1VocklKMDlmUjE3SEc1N0FiYWMyU21MSERERVRBM2t5X3NVSno1X21pbl9XcHhYZlNzQkFkMVZ5Tg==",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-06",
+            "transactionPostingDate": "2026-03-07",
+            "transactionType": "UNBILLED",
+            "transactionAmount": {
+                "amount": 508.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY WUHAN TIANHE AIRPORT HOLI CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "7011",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "203309",
+                "merchantName": "WUHAN TIANHE AIRPORT HOLI",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "912841",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDZ1N2JVZnhyZTd0VGF5eE9ERTd2bUdGX21pbl9fQnZlZG9FaE1EZV9taW5fcVNJZnRnNzU5OUhkRTFyV210cW1Eem1nSVY0N0hHN1VocklKMDlmUjE3SEc1N0FiYWMyU21MSERERVRBM2t4ZWVyRXFLek0wX21pbl9HVmt6WFlCdTNOeA==",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-05",
+            "transactionPostingDate": "2026-03-06",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 2000.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "114143"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2UzlKWGJVZnhyZTd0VGF5eE9ERTd2bUdGOF9CdmVkb0VoTURlNHF5Z2N1UTc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNreGFfNGk2VWxCdjFHNE5GTjhydTY2Mw==",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-04",
+            "transactionPostingDate": "2026-03-06",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 2812.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   CATHAY PACIFIC AIRWAYS LI HKG          HK"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "3099",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "225317",
+                "merchantName": "CATHAY PACIFIC AIRWAYS LI",
+                "merchantCity": "HKG",
+                "merchantLocation": "HONG KONG",
+                "authorizationType": "DOMESTIC",
+                "merchantCountryCode": "HK"
+            },
+            "authorizationCode": "426790",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhNm9hUGE5ZkZUYVpQVGlMdlRhaWF3ekFjQWtzcEc1QmdNeXRNMkx2azRGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXMkJvZkNaOWxPdGpRRENvdnJPSFNmcz0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-04",
+            "transactionPostingDate": "2026-03-05",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 99.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY JINGDONG                  CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "101638",
+                "merchantName": "JINGDONG",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "494466",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDh1emJVZnhyZTd0VGF5eE9ERTd2bUdGOF9CdmVkb0VoTURlX21pbl9xU1FkdHc3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIRERFVEEza3hUcmEzM3lsX21pbl9tM0ZlMVZseXlPUDZJ",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-04",
+            "transactionPostingDate": "2026-03-05",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 27.28,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY MEITUAN                   CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5814",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "202927",
+                "merchantName": "MEITUAN",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "291685",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDhQYmJVZnhyZTd0VGF5eE9ERTd2bUdGOF9CdmVkb0VoTURlX21pbl9xU1Fkc2c3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIRERFVEEza3p4M1R3NVBQNEt1WnNaNTNtQzNXcDI=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-04",
+            "transactionPostingDate": "2026-03-05",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 364.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY CTRIP                     CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "4722",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "210101",
+                "merchantName": "CTRIP",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "328707",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDd1X2JVZnhyZTd0VGF5eE9ERTd2bUdGOF9CdmVkb0VoTURlX21pbl9xU2NZdFE3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIRERFVEEza3h6c1dBMjFDTDhkZWE0OENyX21pbl93WmIz",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-03",
+            "transactionPostingDate": "2026-03-04",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 41.90,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY MEITUAN                   CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5814",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "165255",
+                "merchantName": "MEITUAN",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "756911",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDZfRGJVZnhyZTd0VGF5eE9ERTd2bUdGOV9CdmVkb0VoTURlX21pbl9yU0Fjc2c3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIRERFVEEza3dsMXJjdDNHX2MxTjlBV2VuMU9kbTc=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-03",
+            "transactionPostingDate": "2026-03-03",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 2556.80,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "114143",
+                "merchantLocation": "HONG KONG",
+                "merchantCountryCode": "HK"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2RDlaUGJVZnhyZTd0VGF5eE9ERTd2bUdGNl9CdmVkb0VoTURlMXF5Y2VzUTc1OTlIZEUxcldtdHFtRGptbUtWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNrejFBVGJKbmZZYXlfbWluX0RIMVFEekRaY1k=",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-02",
+            "transactionPostingDate": "2026-03-03",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 159.25,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "QR       SHENZHEN GLENFELD DENTAL  CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "8021",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "154719",
+                "merchantName": "SHENZHEN GLENFELD DENTAL",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "324891",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhbW9hUGE5ZkZUYVpQVGlMdlRhaWF3ekFJQWtzcEc1QmdNeXRJeEt2NDdGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXM0lyQW1xcmhfcU1VTnZuM1RXSkdrND0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-02",
+            "transactionPostingDate": "2026-03-03",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 1.50,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   MEITUANDIANPING           CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "7999",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "205518",
+                "merchantName": "MEITUANDIANPING",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "720167",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhbnVLUGE5ZkZUYVpQVGlMdlRhaWF3ekFJQWtzcEc1QmdNeXRNMEpQMDVGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXODA0dEEzc3pyX21pbl9yU1RnV3o0ZEE4Z1E9",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-01",
+            "transactionPostingDate": "2026-03-02",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 861.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   MEITUANDIANPING           CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "7999",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "170323",
+                "merchantName": "MEITUANDIANPING",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "952720",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhbXZxUGE5ZkZUYVpQVGlMdlRhaWF3ekFNQWtzcEc1QmdNeXRjeUtfMHlGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXeGlpVmpMQUZVT2FMNTBSSURQMTc4QT0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-01",
+            "transactionPostingDate": "2026-03-02",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 1500.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "114143"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2UzlKSGJVZnhyZTd0VGF5eE9ERTd2bUdGNF9CdmVkb0VoTURlX21pbl9xU1lYc2c3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIREVrYk8za3dQbjI5YmF5TG5pR3FWUVBnYU50am8=",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-03-01",
+            "transactionPostingDate": "2026-03-02",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 1.73,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "114143"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2UzlKSGJVZnhyZTd0VGF5eE9ERTd2bUdGNF9CdmVkb0VoTURlX21pbl9xaWdadVE3NTk5SGRFMXJXbXRxbUR6bWdJVjQ3SEc3VWhySUowOWZSMTdIRzU3QWJhYzJTbUxIREVrYk8za3luVEh4V3E4M01MZHBFVkVLTlVvM3A=",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-28",
+            "transactionPostingDate": "2026-03-02",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 18.86,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   STARBUCKS                 CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5813",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "203257",
+                "merchantName": "STARBUCKS",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "767828",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhZ3VLUGE5ZkZUYVpQVGlMdlRhaWF3ekFNQWtzcEc1QmdNeXRRM0pQazhGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXM005SVhtOFdiVzBMWF9hTV9taW5fdEJOdGc9",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-28",
+            "transactionPostingDate": "2026-03-02",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 45.80,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY MEITUAN                   CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5814",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "185352",
+                "merchantName": "MEITUAN",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "621142",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDdlM2JVZnhyZTd0VGF5eE9ERTd2bUdGN19CdmVkb0VoTURlNXJTSVlzZzc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhEREVUQTNrd2t3NnFqaVlIaTdkMDBXbklVdmt6RQ==",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-28",
+            "transactionPostingDate": "2026-03-02",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 40.42,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "APPLEPAY MEITUAN                   CHN          CN"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "5814",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "182028",
+                "merchantName": "MEITUAN",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "566869",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJPSzlTWGh0aVlISVp3Z3R2RDZlcmJVZnhyZTd0VGF5eE9ERTd2bUdGN19CdmVkb0VoTURlNXJDRWNzUTc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhEREVUQTNreHM2WUlTeGczcDA3c0p0X21pbl9iRGRKbHQ=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-27",
+            "transactionPostingDate": "2026-02-28",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 224.60,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   UNIONPAY MERCHANT         CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "4511",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "140005",
+                "merchantName": "UNIONPAY MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "766208",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhX21pbl90cVBhOWZGVGFaUFRpTHZUYWlheHpna0Frc3BHNUJnTXl0QTdMX2M4Rm5YQ1RfbWluX0dOaGRnejNNdW42VmFWbGpHUm1JUThzM3QyWmt0OU43VWNYa2hVRTRIWkxETVBSTkJpV19fbWluX0NLc3lMa3p1SFpqUWRLYUw3Y1FVPQ==",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-26",
+            "transactionPostingDate": "2026-02-27",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 39.90,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "RETURN:  JD PLATFORM MERCHANT      CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "222734",
+                "merchantName": "JD PLATFORM MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "578274",
+            "acquirerReferenceNumber": "10002242227340004100224",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hVU3lQVjUwVG1URTFfbWluXzFhNTdhaHVxUGE5ZkZUYVpQVGlMdlRhaWF4emdZQWtzcEc1QmdNeXRNMktfb19GblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJNRmlXX21pbl9wbjFHSVNpWjNGRlR4Rmpyd1F4OUE9",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-24",
+            "transactionPostingDate": "2026-02-25",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 69.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "RETURN:  JD PLATFORM MERCHANT      CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "222441",
+                "merchantName": "JD PLATFORM MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "576537",
+            "acquirerReferenceNumber": "10002242224411022840224",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hVU3lQVjUwVG1URTFfbWluXzFhNTdhN3VxUGE5ZkZUYVpQVGlMdlRhaWF4emdRQWtzcEc1QmdNeXRNekx2d19taW5fRm5YQ1RfbWluX0dOaGRnejNNdW42VmFWbGpHUm1JUThzM3QyWmt0OU43VWNYa2hVRTRIWkxETVBSTUZpV3dNdmlQN3l0UTVocnA5dmJaU05DTlU9",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-24",
+            "transactionPostingDate": "2026-02-25",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 108.90,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   JD PLATFORM MERCHANT      CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "222734",
+                "merchantName": "JD PLATFORM MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "578274",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhbHBhUGE5ZkZUYVpQVGlMdlRhaWF4emdRQWtzcEc1QmdNeXRNeUtQZ3lGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXNWdIYjJqckdUNDQ0WGl5QV9taW5fYTZiNkE9",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-24",
+            "transactionPostingDate": "2026-02-25",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 69.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   JD PLATFORM MERCHANT      CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5411",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "222441",
+                "merchantName": "JD PLATFORM MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "576537",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhbnBxUGE5ZkZUYVpQVGlMdlRhaWF4emdRQWtzcEc1QmdNeXRNeUt2a19GblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXMEQ3Yl9taW5fbzlZWHpHUjNZUVFBOTNzNk09",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-24",
+            "transactionPostingDate": "2026-02-24",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 1000.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "PAYMENT - THANK YOU"
+            ],
+            "cardNumber": "8383830000319673",
+            "cardNumberDisplay": "8383830000319673",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocAZNB_min_7FAKy766vbiLfPOCeWlMtndfE=",
+            "cardholderName": "REN QIRAN",
+            "merchantCategoryCode": "0000",
+            "transactionCreditDebitCode": "CREDIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "114143"
+            },
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLTWVMX21pbl9OWm1ORnhjYXJRYVh5dVk1ckE2bUJyNl9rZUtvaENZZG9IY3BEZHF6WE9tWmoxWDMzeTI1VTFqbFdEdmJjSzlTWGh0aVlISVp3Z3R2UzlKWGJVZnhyZTd0VGF5eE9ERTd2bVdOOV9CdmVkb0VoTURlX3FpVWJzUTc1OTlIZEUxcldtdHFtRHptZ0lWNDdIRzdVaHJJSjA5ZlIxN0hHNTdBYmFjMlNtTEhERWtiTzNrekl5eGxuT0ZPSGd2WkF4UHN3T2ZGVQ==",
+            "transactionEnrichmentIndicator": false,
+            "transactionDisputeIndicator": false,
+            "secondaryCardTransactionIndicator": false,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [],
+            "foreignCurrencyTransactionCreditDebitCode": "CREDIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-23",
+            "transactionPostingDate": "2026-02-24",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 81.86,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   STARBUCKS                 CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5813",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "155150",
+                "merchantName": "STARBUCKS",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "890966",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdha29hUGE5ZkZUYVpQVGlMdlRhaWF4emdVQWtzcEc1QmdNeXRNMEtfY19GblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXeEpJTm5DNnlTWGtVNUQxeWx2SV90VT0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-17",
+            "transactionPostingDate": "2026-02-20",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 56.85,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   STARBUCKS                 CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5813",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "123011",
+                "merchantName": "STARBUCKS",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "251035",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhbnU2UGE5ZkZUYVpQVGlMdlRhaWF4emdFQWtzcEc1QmdNeXRVN0pQWV9taW5fRm5YQ1RfbWluX0dOaGRnejNNdW42VmFWbGpHUm1JUThzM3QyWmt0OU43VWNYa2hVRTRIWkxETVBSTkJpV3hFWHRLY01UcVg4YjBkN0x3OWtxUTA9",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-16",
+            "transactionPostingDate": "2026-02-20",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 9.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   tencent                   CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "7999",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "185819",
+                "merchantName": "tencent",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "615613",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhZ3ZxUGE5ZkZUYVpQVGlMdlRhaWF4emdFQWtzcEc1QmdNeXRVMktQYzZGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXMlhTbDlNQlM2OTRHb08zRmNrVlJyOD0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-16",
+            "transactionPostingDate": "2026-02-20",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 42.36,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   MCDONALDS                 CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5812",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "102507",
+                "merchantName": "MCDONALDS",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "751243",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhaG9hUGE5ZkZUYVpQVGlMdlRhaWF4emdFQWtzcEc1QmdNeXRVekxmYzVGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXOXhqUnJvS2tfSWFRSkJrZklXNnRyaz0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-15",
+            "transactionPostingDate": "2026-02-16",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 100.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   UNIONPAY MERCHANT         CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "5399",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "211915",
+                "merchantName": "UNIONPAY MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "360153",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdha29hUGE5ZkZUYVpQVGlMdlRhaWF4elFjQWtzcEc1QmdNeXRRMUxQNDdGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXMUx6ekl0RWNhdzdCYnJ3anVPN01LYz0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-13",
+            "transactionPostingDate": "2026-02-14",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 1346.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "SALES:   CTRIP                     CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "4722",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "143031",
+                "merchantName": "CTRIP",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "777045",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhaXZLUGE5ZkZUYVpQVGlMdlRhaWF4elFVQWtzcEc1QmdNeXRNekxmWTlGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXeW1xcG5FWGllNVJOcVpJSF9jaENVQT0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        },
+        {
+            "transactionDate": "2026-02-11",
+            "transactionPostingDate": "2026-02-13",
+            "transactionType": "BILLED",
+            "transactionAmount": {
+                "amount": 508.00,
+                "currencyCode": "CNY"
+            },
+            "transactionDescriptions": [
+                "QR       UNIONPAY MERCHANT         CHN          CN"
+            ],
+            "cardNumber": "8383830003050796",
+            "cardNumberDisplay": "8383830003050796",
+            "cardNumberIdentifier": "VEdTRlNCU0dTQlNHJGSPpGiFTNaocwVJDu_LBelVxDDvQUB26gHL7jOKarM=",
+            "cardholderName": "WANG ZIFAN",
+            "merchantCategoryCode": "7297",
+            "transactionCreditDebitCode": "DEBIT_TRANSACTION",
+            "realTimeTransactionDetails": {
+                "transactionTime": "235913",
+                "merchantName": "UNIONPAY MERCHANT",
+                "merchantCity": "CHN",
+                "merchantLocation": "CHINA",
+                "authorizationType": "INTERNATIONAL",
+                "merchantCountryCode": "CN"
+            },
+            "authorizationCode": "764401",
+            "acquirerReferenceNumber": "00000000000000000000000",
+            "uniqueTransactionIdentifier": "VkVkVFJsTkNVMGRUUWxOSFozWFdfbktNWHJEZEpHRXVVcGF4WmhTVmZRTUhydXFFSHVpRk40Y19HbnhPNWdsVXRKMzlGcG5na1FuQTNRWDJvcF9taW5fS0hEZkNTQW5rV0REX2wxM0lrcG9mUW1pZk1EVV94em5KYTZmU3l2RlFuUWxuZndZdWlvekdHZ1lQeEhVSXhXWmRHSF9taW5fWGl3UTJOcVN4RHY2YkxQUDVSX2c5UXFNTW1XVEpnWFZ0bl9taW5fYzZYR1VfbWluX2ZpNzlaaV9uc0dWMGZmcDNCc2ptX21pbl9OTGRnMDkybXduV2dwM1pyenRFYzg2UHlVSmhYZEpXZ184aWxFWDF1X21pbl9faWU2Nm12TDE1YjFiSU44Rzk1RVZ0Q0g2SjVaY3JKQWdOSkxKeDZ1amhsVFRQNmgxblE2YnlzQ2dfMUNnOWtOV1NOY2o2aENLUGU3dUVaMjFBeGNhclFhWHl1WTVyQTZtQnI2X2tlS29oQ1lkb0hjcERkcXpYT21aajFYMzN5MjVVMWpzYUZ1NjRQY0NEMEptX1FKMXltTU94NUpQTEs0OF9taW5fTDY1UWZ6eFNIQnVzMlQ5cjVCVzBXYWRRU0ZhX21pbl9yQ1ljdHh2bDRKcWFUaGFYME5xc0hWMnlQVjUwVG1URTFfbWluXzFhNTdhN3BxUGE5ZkZUYVpQVGlMdlRhaWF4elFJQWtzcEc1QmdNeXRRekpQc3pGblhDVF9taW5fR05oZGd6M011bjZWYVZsakdSbUlROHMzdDJaa3Q5TjdVY1hraFVFNEhaTERNUFJOQmlXX2VhOTJkZjVXN0RKTERkNVdfR1RUaz0=",
+            "transactionEnrichmentIndicator": true,
+            "transactionDisputeIndicator": true,
+            "secondaryCardTransactionIndicator": true,
+            "transactionStatus": "HISTORIC",
+            "transactionEnrichmentTypes": [
+                "MERCHANT"
+            ],
+            "foreignCurrencyTransactionCreditDebitCode": "DEBIT_TRANSACTION"
+        }
+    ]
+}
