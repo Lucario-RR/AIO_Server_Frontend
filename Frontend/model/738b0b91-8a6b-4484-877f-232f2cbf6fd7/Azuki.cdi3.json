@@ -1,0 +1,531 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup6",
+			"Name": "瞳孔物理"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup6",
+			"Name": "左瞳孔物理"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup6",
+			"Name": "左高光物理"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup6",
+			"Name": "高光物理"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup6",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup6",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup6",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup6",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup6",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup6",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup6",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup6",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouseORBoard",
+			"GroupId": "ParamGroup",
+			"Name": "键鼠/数位板"
+		},
+		{
+			"Id": "ParamMouseX",
+			"GroupId": "ParamGroup",
+			"Name": "鼠标x"
+		},
+		{
+			"Id": "ParamMouseY",
+			"GroupId": "ParamGroup",
+			"Name": "鼠标y"
+		},
+		{
+			"Id": "ParamLeftHandX",
+			"GroupId": "ParamGroup",
+			"Name": "左手X"
+		},
+		{
+			"Id": "ParamLeftHandY",
+			"GroupId": "ParamGroup",
+			"Name": "左手Y"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup",
+			"Name": "左手2x"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup",
+			"Name": "左手2Y"
+		},
+		{
+			"Id": "ParamMouseLeftDown",
+			"GroupId": "ParamGroup",
+			"Name": "鼠标左键"
+		},
+		{
+			"Id": "ParamMouseRightDown",
+			"GroupId": "ParamGroup",
+			"Name": "鼠标右键"
+		},
+		{
+			"Id": "ParamKeybordQ",
+			"GroupId": "ParamGroup2",
+			"Name": "键盘Q"
+		},
+		{
+			"Id": "ParamKeyboardW",
+			"GroupId": "ParamGroup2",
+			"Name": "键盘W"
+		},
+		{
+			"Id": "ParamKeyboardE",
+			"GroupId": "ParamGroup2",
+			"Name": "键盘E"
+		},
+		{
+			"Id": "ParamKeyboardA",
+			"GroupId": "ParamGroup2",
+			"Name": "键盘A"
+		},
+		{
+			"Id": "ParamKeyboardS",
+			"GroupId": "ParamGroup2",
+			"Name": "键盘S"
+		},
+		{
+			"Id": "ParamKeyboard",
+			"GroupId": "ParamGroup2",
+			"Name": "键盘D"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup2",
+			"Name": "空格/抓手"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup2",
+			"Name": "撤销"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup2",
+			"Name": "橡皮"
+		},
+		{
+			"Id": "ParamPen",
+			"GroupId": "ParamGroup2",
+			"Name": "笔"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "吸管"
+		},
+		{
+			"Id": "Parampaintbucket",
+			"GroupId": "ParamGroup2",
+			"Name": "油漆桶"
+		},
+		{
+			"Id": "ParamHartEye",
+			"GroupId": "ParamGroup3",
+			"Name": "心心眼"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup3",
+			"Name": "问号"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup3",
+			"Name": "灯泡"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup3",
+			"Name": "感叹号"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup3",
+			"Name": "高光"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup3",
+			"Name": "星星眼"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup3",
+			"Name": "腮红"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup3",
+			"Name": "汗水"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup3",
+			"Name": "舌头"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup3",
+			"Name": "眼泪"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup3",
+			"Name": "皱眉"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup3",
+			"Name": "music"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup4",
+			"Name": "眼泪物理"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup4",
+			"Name": "腮红物理x"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup4",
+			"Name": "腮红物理y"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup4",
+			"Name": "耳朵1"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup4",
+			"Name": "耳朵2"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup4",
+			"Name": "胡子x1"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup4",
+			"Name": "胡子x2"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh92",
+			"GroupId": "ParamGroup5",
+			"Name": "[0]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh92",
+			"GroupId": "ParamGroup5",
+			"Name": "[1]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh92",
+			"GroupId": "ParamGroup5",
+			"Name": "[2]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh92",
+			"GroupId": "ParamGroup5",
+			"Name": "[3]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh92",
+			"GroupId": "ParamGroup5",
+			"Name": "[4]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh92",
+			"GroupId": "ParamGroup5",
+			"Name": "[5]尾巴"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh92",
+			"GroupId": "ParamGroup5",
+			"Name": "[6]尾巴"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "头"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "鼠标"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "键盘"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "表情"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "物理"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "尾巴"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "ﾎﾄｼ�ｼﾐ32"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ﾎﾄｼ�ｼﾐ31"
+		},
+		{
+			"Id": "Part10",
+			"Name": "ﾎﾄｼ�ｼﾐ2"
+		},
+		{
+			"Id": "Part20",
+			"Name": "ﾎﾄｼ�ｼﾐ20"
+		},
+		{
+			"Id": "Part23",
+			"Name": "ﾎﾄｼ�ｼﾐ19"
+		},
+		{
+			"Id": "Part25",
+			"Name": "ﾎﾄｼ�ｼﾐ11"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ﾎﾄｼ�ｼﾐ24"
+		},
+		{
+			"Id": "Part26",
+			"Name": "ﾎﾄｼ�ｼﾐ14"
+		},
+		{
+			"Id": "ArtMesh92_Skinning",
+			"Name": "尾巴(蒙皮)"
+		},
+		{
+			"Id": "Part12",
+			"Name": "尾巴(回转)"
+		},
+		{
+			"Id": "Part27",
+			"Name": "表情"
+		},
+		{
+			"Id": "Part14",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part15",
+			"Name": "ﾎﾄｼ�ｼﾐ4"
+		},
+		{
+			"Id": "Part16",
+			"Name": "ﾎﾄｼ�ｼﾐ5"
+		},
+		{
+			"Id": "Part17",
+			"Name": "ﾎﾄｼ�ｼﾐ39"
+		},
+		{
+			"Id": "Part18",
+			"Name": "ﾎﾄｼ�ｼﾐ38"
+		},
+		{
+			"Id": "Part19",
+			"Name": "ﾎﾄｼ�ｼﾐ37"
+		},
+		{
+			"Id": "Part21",
+			"Name": "ﾎﾄｼ�ｼﾐ21"
+		},
+		{
+			"Id": "Part22",
+			"Name": "ﾎﾄｼ�ｼﾐ22"
+		},
+		{
+			"Id": "Part24",
+			"Name": "ﾎﾄｼ�ｼﾐ18"
+		},
+		{
+			"Id": "Part4",
+			"Name": "ﾎﾄｼ�ｼﾐ30"
+		},
+		{
+			"Id": "Part7",
+			"Name": "ﾎﾄｼ�ｼﾐ29"
+		},
+		{
+			"Id": "Part11",
+			"Name": "ﾎﾄｼ�ｼﾐ40"
+		},
+		{
+			"Id": "Part29",
+			"Name": "ﾎﾄｼ�ｼﾐ36"
+		},
+		{
+			"Id": "Part13",
+			"Name": "ﾎﾄｼ�ｼﾐ36"
+		},
+		{
+			"Id": "Part5",
+			"Name": "ﾎﾄｼ�ｼﾐ28"
+		},
+		{
+			"Id": "Part6",
+			"Name": "ﾎﾄｼ�ｼﾐ25"
+		},
+		{
+			"Id": "Part8",
+			"Name": "ﾎﾄｼ�ｼﾐ27"
+		},
+		{
+			"Id": "Part9",
+			"Name": "ﾎﾄｼ�ｼﾐ26"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouseX",
+			"ParamMouseY"
+		],
+		[
+			"ParamLeftHandX",
+			"ParamLeftHandY"
+		],
+		[
+			"Param22",
+			"Param23"
+		],
+		[
+			"Param16",
+			"Param17"
+		]
+	]
+}

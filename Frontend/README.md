@@ -2,14 +2,14 @@
 
 本目录是 **AIO Server** 的 Web 前端项目，负责为后端提供的各类功能（博客、账本、币种对比、账号系统、自行车管理、图库等）提供统一的网页界面。
 
-一些你可以在这个前端里实现 / 看到的东西：
+主要计划支持的模块包括：
 
-- **Blogs**：清爽的博客列表、文章阅读页，将来支持登录后的私有编辑 + 评论区。
-- **Ledger**：上传账单文件，一键解析成可视化流水表和统计图，适合「记账系」创作者。
-- **Bank Currency Comparing**：多银行汇率对比 & 历史曲线，一眼看出哪家更「良心」。
-- **Account Management System**：注册 / 登录 / 2FA / Passkey 登录等与安全相关的交互页。
-- **Bike Management System**：记录每一次骑行和保养，更适合「骑车也要写前端」的你。
-- **Gallery**：展示你的动漫插画、截图或摄影作品，做一个属于自己的「小画廊」。
+- **Blogs**：博客列表、文章阅读页和编辑器。
+- **Ledger**：账单上传、一键解析和统计图表展示。
+- **Bank Currency Comparing**：多银行汇率对比与历史曲线。
+- **Account Management System**：注册 / 登录 / 2FA / Passkey 登录等安全相关页面。
+- **Bike Management System**：每一次骑行和保养记录的管理与统计。
+- **Gallery**：展示插画、截图或摄影作品的图库页面。
 
 ---
 
@@ -69,7 +69,7 @@ Frontend/
   │  └─ components/      # 通用组件 & UI 组件
   ├─ public/
   │  ├─ favicon.ico
-  │  └─ preview-banner.png  # README 顶部展示图（可自定义二次元插画）
+  │  └─ preview-banner.png  # README 顶部展示图（可自定义项目横幅 / 截图）
   └─ vite.config.js
 ```
 

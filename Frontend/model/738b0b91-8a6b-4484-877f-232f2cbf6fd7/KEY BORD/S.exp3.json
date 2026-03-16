@@ -1,0 +1,20 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamKeyboardS",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLeftHandX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLeftHandY",
+			"Value": -21.429,
+			"Blend": "Add"
+		}
+	]
+}

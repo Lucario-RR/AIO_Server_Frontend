@@ -1,0 +1,30 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "Param20",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param19",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param18",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param12",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHartEye",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

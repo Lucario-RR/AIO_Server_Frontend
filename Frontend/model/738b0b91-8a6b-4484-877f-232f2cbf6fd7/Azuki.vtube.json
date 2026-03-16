@@ -1,0 +1,1150 @@
+{
+    "Version": 1,
+    "Name": "Azuki",
+    "ModelID": "bdee9ca5bd5d4fce9ac3f7e970076787",
+    "FileReferences": {
+        "Icon": "",
+        "Model": "Azuki.model3.json",
+        "IdleAnimation": "tail.motion3.json"
+    },
+    "SavedModelPosition": {
+        "Position": {
+            "x": -31.011993408203126,
+            "y": -7.322811603546143,
+            "z": 0.0
+        },
+        "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "Scale": {
+            "x": 0.5526877045631409,
+            "y": 0.5526877045631409,
+            "z": 1.0
+        }
+    },
+    "ModelPositionMovement": {
+        "Use": false,
+        "X": 6,
+        "Y": 8,
+        "Z": 11,
+        "SmoothingX": 10,
+        "SmoothingY": 10,
+        "SmoothingZ": 10
+    },
+    "PhysicsSettings": {
+        "Use": true,
+        "PhysicsStrength": 50,
+        "WindStrength": 0
+    },
+    "ParameterSettings": [
+        {
+            "Name": "Face Left/Right Rotation",
+            "Input": "FaceAngleX",
+            "InputRangeLower": -30.0,
+            "InputRangeUpper": 30.0,
+            "OutputRangeLower": -30.0,
+            "OutputRangeUpper": 30.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamAngleX",
+            "Smoothing": 3
+        },
+        {
+            "Name": "Face Up/Down Rotation",
+            "Input": "FaceAngleY",
+            "InputRangeLower": -20.0,
+            "InputRangeUpper": 20.0,
+            "OutputRangeLower": -30.0,
+            "OutputRangeUpper": 30.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamAngleY",
+            "Smoothing": 1
+        },
+        {
+            "Name": "Face Lean Rotation",
+            "Input": "FaceAngleZ",
+            "InputRangeLower": -30.0,
+            "InputRangeUpper": 30.0,
+            "OutputRangeLower": -30.0,
+            "OutputRangeUpper": 30.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamAngleZ",
+            "Smoothing": 30
+        },
+        {
+            "Name": "Eye Open Right",
+            "Input": "EyeOpenRight",
+            "InputRangeLower": 0.0,
+            "InputRangeUpper": 0.800000011920929,
+            "OutputRangeLower": 0.0,
+            "OutputRangeUpper": 1.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": true,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamEyeROpen",
+            "Smoothing": 10
+        },
+        {
+            "Name": "Eye X",
+            "Input": "EyeRightX",
+            "InputRangeLower": -1.0,
+            "InputRangeUpper": 1.0,
+            "OutputRangeLower": 1.0,
+            "OutputRangeUpper": -1.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamEyeBallX",
+            "Smoothing": 8
+        },
+        {
+            "Name": "Eye Y",
+            "Input": "EyeRightY",
+            "InputRangeLower": -1.0,
+            "InputRangeUpper": 1.0,
+            "OutputRangeLower": -1.0,
+            "OutputRangeUpper": 1.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamEyeBallY",
+            "Smoothing": 8
+        },
+        {
+            "Name": "Brow Height Right",
+            "Input": "Brows",
+            "InputRangeLower": 0.4000000059604645,
+            "InputRangeUpper": 0.699999988079071,
+            "OutputRangeLower": -1.0,
+            "OutputRangeUpper": 1.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamBrowRY",
+            "Smoothing": 10
+        },
+        {
+            "Name": "Brow Form Right",
+            "Input": "MouthSmile",
+            "InputRangeLower": 0.699999988079071,
+            "InputRangeUpper": 1.600000023841858,
+            "OutputRangeLower": 0.0,
+            "OutputRangeUpper": 1.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamBrowRX",
+            "Smoothing": 15
+        },
+        {
+            "Name": "Mouse X",
+            "Input": "MousePositionX",
+            "InputRangeLower": -1.0,
+            "InputRangeUpper": 1.0,
+            "OutputRangeLower": -30.0,
+            "OutputRangeUpper": 30.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamMouseX",
+            "Smoothing": 0
+        },
+        {
+            "Name": "Mouse Y",
+            "Input": "MousePositionY",
+            "InputRangeLower": -1.0,
+            "InputRangeUpper": 1.0,
+            "OutputRangeLower": -30.0,
+            "OutputRangeUpper": 30.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamMouseY",
+            "Smoothing": 0
+        },
+        {
+            "Name": "",
+            "Input": "",
+            "InputRangeLower": -1.0,
+            "InputRangeUpper": 1.0,
+            "OutputRangeLower": 0.0,
+            "OutputRangeUpper": 1.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": false,
+            "UseBreathing": true,
+            "OutputLive2D": "ParamBreath",
+            "Smoothing": 20
+        },
+        {
+            "Name": "Eye Open Left",
+            "Input": "EyeOpenRight",
+            "InputRangeLower": 0.0,
+            "InputRangeUpper": 0.800000011920929,
+            "OutputRangeLower": 0.0,
+            "OutputRangeUpper": 1.0,
+            "ClampInput": false,
+            "ClampOutput": false,
+            "UseBlinking": true,
+            "UseBreathing": false,
+            "OutputLive2D": "ParamEyeLOpen",
+            "Smoothing": 20
+        }
+    ],
+    "Hotkeys": [
+        {
+            "HotkeyID": "8452a7127e5e4db39dc959078cbb9a68",
+            "Name": "",
+            "Action": "MoveModel",
+            "File": "",
+            "Position": {
+                "X": -6.174274444580078,
+                "Y": -4.381740570068359,
+                "Z": 0.5526875853538513,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "M",
+                "Trigger2": "",
+                "ScreenButton": 8
+            },
+            "IsGlobal": false,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "9b31c6bd4faf499f8c1dcc40ad46d184",
+            "Name": "Mouse R Click",
+            "Action": "ToggleExpression",
+            "File": "R click.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "RightMouseButton",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "af831353e825475799e2741cb813d10d",
+            "Name": "Mouse L Click",
+            "Action": "ToggleExpression",
+            "File": "L click.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "LeftMouseButton",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "e23a40d218eb4fae8713c1d3454f6128",
+            "Name": "Enter",
+            "Action": "ToggleExpression",
+            "File": "enter.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "4d9f0ec7b68a42e6bc8bcce1b763eb7c",
+            "Name": "color pick",
+            "Action": "ToggleExpression",
+            "File": "pick color.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Alt",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "8d9d3614952b4603b1359b1a5348ef24",
+            "Name": "ctrl plus Z",
+            "Action": "ToggleExpression",
+            "File": "ctrl plus Z.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "LeftControl",
+                "Trigger2": "Z",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "7f99bb66068f44e3bc44455bc564fe89",
+            "Name": "pen",
+            "Action": "ToggleExpression",
+            "File": "pen.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "B",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "5706cfa592664596bc8439f72789ad47",
+            "Name": "spase",
+            "Action": "ToggleExpression",
+            "File": "space.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Space",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "7f8afdebae7d48f7aeec74dc0a54eb6d",
+            "Name": "eraser",
+            "Action": "ToggleExpression",
+            "File": "eraser.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "E",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "c1c1c941276f44cca62ecec79e46ff55",
+            "Name": "bord or mouse",
+            "Action": "ToggleExpression",
+            "File": "mouse or bord.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "LeftControl",
+                "Trigger2": "Tab",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.20000000298023225,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "ebe5f8a8d25f46ed875ec25931398592",
+            "Name": "Q",
+            "Action": "ToggleExpression",
+            "File": "Q.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Q",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "733308fd68d7416eba209ecb517750df",
+            "Name": "W",
+            "Action": "ToggleExpression",
+            "File": "W.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "W",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "4ffd07c2d93c4bca83cee44a443fbcc7",
+            "Name": "E",
+            "Action": "ToggleExpression",
+            "File": "E.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "E",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "25db114988654ca288bd18afe8f42cf5",
+            "Name": "A",
+            "Action": "ToggleExpression",
+            "File": "A.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "A",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "ef98406c4bc14a87918fbe7487bdf86d",
+            "Name": "S",
+            "Action": "ToggleExpression",
+            "File": "S.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "S",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "fd7eb3e1e8ab4fb7b64e231fcb61a079",
+            "Name": "D",
+            "Action": "ToggleExpression",
+            "File": "D.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "D",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.10999999940395355,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "9988157546d441769775209fb3b4b7e6",
+            "Name": "Blush",
+            "Action": "ToggleExpression",
+            "File": "Blush.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad1",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.20000000298023225,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "22a8a7c0e8b94e01affd8c42b33ef625",
+            "Name": "brows",
+            "Action": "ToggleExpression",
+            "File": "brows.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad2",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "602ab625d74546ddb526995517c51e83",
+            "Name": "!!!!!!",
+            "Action": "ToggleExpression",
+            "File": "exclamation.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad3",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.30000001192092898,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "7787a22f58764132b8bbd7c334af64da",
+            "Name": "heart",
+            "Action": "ToggleExpression",
+            "File": "heart eye.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad4",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "1a3a6c99875941a7847f1a695392cbbd",
+            "Name": "idea",
+            "Action": "ToggleExpression",
+            "File": "idea.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad5",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "c9f542b68773447bad3cbbe2d657c5c2",
+            "Name": "?????",
+            "Action": "ToggleExpression",
+            "File": "question.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad6",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.30000001192092898,
+            "OnScreenHotkeyColor": {
+                "r": 0.06734704971313477,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "11c0c3e812c6454c8a85bcb6bee09ed2",
+            "Name": "star",
+            "Action": "ToggleExpression",
+            "File": "star eye.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad7",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "d6fc716335ea46e2b0f43b73ad55d3f3",
+            "Name": "sweat",
+            "Action": "ToggleExpression",
+            "File": "sweat.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad8",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.576301097869873,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "4d5b61b6dcc94a6fb744b388ee42feaa",
+            "Name": "tears",
+            "Action": "ToggleExpression",
+            "File": "tears.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad9",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "35b8f551818c4722b9a4867818b74981",
+            "Name": "tongue",
+            "Action": "ToggleExpression",
+            "File": "tongue.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Decimal",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "8cdb38afb4494287af150c1e51ee4b36",
+            "Name": "",
+            "Action": "RemoveAllExpressions",
+            "File": "",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Numpad0",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 0.556859016418457,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "2be7149725924256a973246480fe6418",
+            "Name": "",
+            "Action": "ChangeVTSModel",
+            "File": "Dragon.vtube.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "LeftShift",
+                "Trigger2": "M",
+                "ScreenButton": -1
+            },
+            "IsGlobal": false,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "afa83241e1134a838bfd71981b416afe",
+            "Name": "music",
+            "Action": "ToggleExpression",
+            "File": "music.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Divide",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "409ff26b6cfd422ba989ffc50e7e4471",
+            "Name": "emmmm",
+            "Action": "ToggleExpression",
+            "File": "EMMMMMMM.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Multiply",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "b27c4d9c6c084faea89c1612cb61ddf9",
+            "Name": "wink",
+            "Action": "ToggleExpression",
+            "File": "WINK.exp3.json",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "Triggers": {
+                "Trigger1": "Subtract",
+                "Trigger2": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": true,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.15000000596046449,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        }
+    ],
+    "HotkeySettings": {
+        "UseOnScreenHotkeys": false,
+        "UseKeyboardHotkeys": true,
+        "SendOnScreenHotkeysToPC": false,
+        "OnScreenHotkeyAlpha": 75
+    }
+}

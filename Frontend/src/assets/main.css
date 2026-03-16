@@ -1,35 +1,32 @@
 @import './base.css';
 
+a {
+  text-decoration: none;
+  color: #42b883; /* Vue 默认绿色 */
+  transition: 0.2s ease;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', sans-serif;
+  background: var(--color-background);
+  color: var(--color-text);
+}
+
+/* 页面最大宽度容器 */
 #app {
-  max-width: 1280px;
+  max-width: 960px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 16px 16px 32px;
   font-weight: normal;
 }
 
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-  padding: 3px;
+/* 根据密度调整垂直间距 */
+html[data-density='compact'] body {
+  font-size: 14px;
 }
 
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
-}
-
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
-  }
-
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
-  }
+html[data-density='compact'] #app {
+  padding-top: 8px;
+  padding-bottom: 20px;
 }
