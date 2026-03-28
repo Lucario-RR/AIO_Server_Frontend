@@ -1,0 +1,1 @@
+import{_ as t,c as a,a as s,o}from"./index-DEpBzJYd.js";const c={},l={class:"page-shell"};function n(r,e){return o(),a("section",l,[...e[0]||(e[0]=[s("h1",{class:"page-title"},"Blogs",-1),s("p",{class:"page-subtitle"},"博客列表、详情和编辑功能的预留页面。",-1)])])}const p=t(c,[["render",n],["__scopeId","data-v-8cd1274e"]]);export{p as default};

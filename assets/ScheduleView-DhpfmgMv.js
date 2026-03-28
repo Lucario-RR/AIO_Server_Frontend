@@ -1,0 +1,1 @@
+import{_ as t,c as a,a as s,o as c}from"./index-DEpBzJYd.js";const o={},r={class:"page-shell"};function l(n,e){return c(),a("section",r,[...e[0]||(e[0]=[s("h1",{class:"page-title"},"日程",-1),s("p",{class:"page-subtitle"},"这里将展示你的账本记账日程、任务计划以及与 AIO Server 相关的待办。",-1)])])}const p=t(o,[["render",l],["__scopeId","data-v-153e7529"]]);export{p as default};

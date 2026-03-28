@@ -1,0 +1,1 @@
+import{_ as t,c as a,a as s,o}from"./index-DEpBzJYd.js";const c={},r={class:"page-shell"};function n(l,e){return o(),a("section",r,[...e[0]||(e[0]=[s("h1",{class:"page-title"},"周边",-1),s("p",{class:"page-subtitle"},"预留给 AIO Server 相关的小工具、链接合集或周边展示。",-1)])])}const p=t(c,[["render",n],["__scopeId","data-v-869038eb"]]);export{p as default};
