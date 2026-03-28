@@ -9,7 +9,7 @@
 - **Bank Currency Comparing**：多银行汇率对比与历史曲线。
 - **Account Management System**：注册 / 登录 / 2FA / Passkey 登录等安全相关页面。
 - **Bike Management System**：每一次骑行和保养记录的管理与统计。
-- **Gallery**：展示插画、截图或摄影作品的图库页面。
+- **Gallery**：展示插画、截图或摄影作品的图库页面
 
 ---
 
