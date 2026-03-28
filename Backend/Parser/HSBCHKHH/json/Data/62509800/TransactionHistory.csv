@@ -1,4 +1,0 @@
-Transaction date,Post date,Description,Billing amount,Billing currency,Transaction status,Merchant name,Country / region,Area / district,Credit / Debit
-03/03/2026,03/03/2026,PAYMENT - THANK YOU,"296.12"	,HKD,POSTED,,HONG KONG,,CREDIT
-05/02/2026,06/02/2026,QR       DIN TAI FUNG              MAC          MO,"-403.40"	,HKD,POSTED,DIN TAI FUNG,MACAU,MAC,DEBIT
-24/01/2026,26/01/2026,SALES:   IH                        MAC          MO,"-296.12"	,HKD,POSTED,IH,MACAU,MAC,DEBIT
