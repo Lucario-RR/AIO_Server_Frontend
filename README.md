@@ -11,27 +11,6 @@
 - **Bike Management System**：每一次骑行和保养记录的管理与统计。
 - **Gallery**：展示插画、截图或摄影作品的图库页面。
 
----
-
-## 🧩 技术栈
-
-本前端使用以下主要技术构建：
-
-- **Vue 3**：渐进式前端框架。
-- **Vite 7**：开发构建工具，提供快速热更新。
-- **Vue Router 5**：前端路由管理。
-- **Pinia 3**：状态管理。
-- **Vitest + @vue/test-utils**：单元测试。
-- **Playwright**：端到端（E2E）测试。
-- **ESLint + Oxlint + Prettier**：代码质量与格式化工具。
-
-Node 版本要求（来自 `package.json`）：
-
-```txt
-node: ^20.19.0 || >=22.12.0
-```
-
-建议使用 **Node 20 LTS** 或更新版本。
 
 ---
 
