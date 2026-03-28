@@ -2,7 +2,6 @@
 import { RouterLink, RouterView } from 'vue-router'
 import { computed, ref } from 'vue'
 import { storeToRefs } from 'pinia'
-import avatar from '@/assets/logo.svg'
 import { useSettingsStore } from '@/stores/settings'
 import { useI18n } from '@/i18n'
 
@@ -29,6 +28,9 @@ const featureTabs = computed(() => [
 
 const featureOpen = ref(false)
 
+/** 与 public/favicon.ico 同源，换图标只改一处 */
+const avatarSrc = `${import.meta.env.BASE_URL}favicon.ico`
+
 const debugInfo = {
   mode: import.meta.env.MODE,
   baseUrl: import.meta.env.BASE_URL,
@@ -41,7 +43,7 @@ const debugInfo = {
       <div class="top-nav-inner">
         <button class="avatar-pill" type="button">
           <span class="avatar-ring">
-            <img :src="avatar" alt="Avatar" class="avatar-img" />
+            <img :src="avatarSrc" alt="Logo" class="avatar-img" />
           </span>
         </button>
 
