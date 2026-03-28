@@ -1,0 +1,1 @@
+import{_ as t,c,a as s,o as a}from"./index-CnvxHuRg.js";const o={},n={class:"page-shell"};function r(l,e){return a(),c("section",n,[...e[0]||(e[0]=[s("h1",{class:"page-title"},"Account",-1),s("p",{class:"page-subtitle"},"账号信息、安全策略和登录方式配置的预留页面。",-1)])])}const p=t(o,[["render",r],["__scopeId","data-v-00b4934d"]]);export{p as default};

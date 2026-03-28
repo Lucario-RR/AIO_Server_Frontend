@@ -1,0 +1,1 @@
+import{_ as a,c as t,a as s,o as c}from"./index-CnvxHuRg.js";const o={},l={class:"page-shell"};function r(n,e){return c(),t("section",l,[...e[0]||(e[0]=[s("h1",{class:"page-title"},"Gallery",-1),s("p",{class:"page-subtitle"},"图片展示墙和详情预览的预留页面。",-1)])])}const p=a(o,[["render",r],["__scopeId","data-v-8e55cb5b"]]);export{p as default};

@@ -1,1 +1,0 @@
-import{_ as t,c as a,a as s,o as c}from"./index-DEpBzJYd.js";const o={},r={class:"page-shell"};function n(l,e){return c(),a("section",r,[...e[0]||(e[0]=[s("h1",{class:"page-title"},"Ledger",-1),s("p",{class:"page-subtitle"},"账单上传、解析结果展示和统计视图的预留页面。",-1)])])}const d=t(o,[["render",n],["__scopeId","data-v-03757a36"]]);export{d as default};

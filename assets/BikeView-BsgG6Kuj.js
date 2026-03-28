@@ -1,1 +1,0 @@
-import{_ as t,c as a,a as s,o as c}from"./index-DEpBzJYd.js";const o={},n={class:"page-shell"};function r(l,e){return c(),a("section",n,[...e[0]||(e[0]=[s("h1",{class:"page-title"},"Bike",-1),s("p",{class:"page-subtitle"},"骑行记录和保养日志管理的预留页面。",-1)])])}const i=t(o,[["render",r],["__scopeId","data-v-d431b8c1"]]);export{i as default};
