@@ -11,21 +11,27 @@ function githubPagesBase() {
   if (!repo) return '/'
   const name = repo.split('/')[1]
   const owner = process.env.GITHUB_REPOSITORY_OWNER ?? ''
-  if (name === `${owner}.github.io`) return '/'
+  if (name.toLowerCase() === `${owner.toLowerCase()}.github.io`) return '/'
   return `/${name}/`
 }
 
+function pagesBase() {
+  const explicit = process.env.DEPLOY_BASE
+  if (explicit != null && explicit !== '') return explicit
+  return githubPagesBase()
+}
+
 // https://vite.dev/config/
-export default defineConfig({
-  base: githubPagesBase(),
+export default defineConfig(({ command }) => ({
+  base: pagesBase(),
   plugins: [
     vue(),
     vueJsx(),
-    vueDevTools(),
-  ],
+    command === 'serve' && vueDevTools(),
+  ].filter(Boolean),
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-})
+}))
